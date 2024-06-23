@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+streamlit-shadcn-ui
+gvm-tools 
+python-gvm

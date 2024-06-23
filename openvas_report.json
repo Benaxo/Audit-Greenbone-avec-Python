@@ -1,0 +1,13 @@
+{
+  "results": [
+    {
+      "id": "1",
+      "host": "127.0.0.1",
+      "port": "80",
+      "severity": "High",
+      "name": "Sample Vulnerability",
+      "description": "Description of the vulnerability",
+      "solution": "Solution to fix the vulnerability"
+    }
+  ]
+}
